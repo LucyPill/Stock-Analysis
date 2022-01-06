@@ -11,19 +11,19 @@
   We can see that the first time we ran the code the running time for 2017 was 0.5625 seconds and when we ran the refactored code the running time was in 0.1953125 seconds. We can conclude that the refactored code runs 3X faster than the original code for the year of 2017.
 
 ### Original Code for year 2017
-![VBA_Challenge_Original_2017.png](https://github.com/LucyPill/Stock-Analysis-/blob/main/VBA_Chellenge_Original_2017.png)
+![VBA_Challenge_Original_2017.png](https://github.com/LucyPill/Stock-Analysis/blob/main/VBA_Chellenge_Original_2017.png)
 
 ### Refactored Code for year 2017
-![VBA_Challenge_Refatored_2017.png](https://github.com/LucyPill/Stock-Analysis-/blob/main/VBA_Challenge_Refactored_2017.png)
+![VBA_Challenge_Refatored_2017.png](https://github.com/LucyPill/Stock-Analysis/blob/main/VBA_Challenge_Refactored_2017.png)
 
 
   Similarly, for the year of 2018 we got in 0.578125 seconds for the original code and 0.1992188 seconds for the refactored code. Again, the refactored code runs 3X faster than the original code. This difference in time can be meaningful when running code in a complex set of data because time is critically important in many aspects of businesses and sometimes seconds can be the determining factor in closing a deal.
 
 ### Original Code for year 2018 
-![VBA_Challenge_Original_2018.png](https://github.com/LucyPill/Stock-Analysis-/blob/main/VBA_Challenge_Original_2018.png)
+![VBA_Challenge_Original_2018.png](https://github.com/LucyPill/Stock-Analysis/blob/main/VBA_Challenge_Original_2018.png)
 
 ### Refactored Code for year 2018
-![VBA_Challenge_Refactored_2018.png](https://github.com/LucyPill/Stock-Analysis-/blob/main/VBA_Challenge_Refactored_2018.png)
+![VBA_Challenge_Refactored_2018.png](https://github.com/LucyPill/Stock-Analysis/blob/main/VBA_Challenge_Refactored_2018.png)
 
   Finally, we can compare the stocks’ performance for 2017 and 2018. For the year of 2017 the stocks performed very well and for many 2017 was an epic year. We can see that 2018 was the opposite and this is in accordance with what happened in 2018 where the stock market did not do well. It has been said that 2018 was one of the worse years for stocks. Nonetheless, Steve now has a code that he can use to run the analysis and use it to make an educated decision about what to tell his parents.
 
